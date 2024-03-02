@@ -1,5 +1,7 @@
 # Api Rest NodeJS
 
+This API has technologies as Fastify, Knex, Vitest, TypeScript, Zod, ESlint, Superset, TSUp and Sqlite
+
 ## How to you use
 
 1. For use you need have NodeJS installed on your machine and download this project folder
